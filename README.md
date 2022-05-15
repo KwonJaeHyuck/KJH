@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KwonJaeHyuck
+- 👋 Hi, I’m @KJH
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on someone who good at programming
